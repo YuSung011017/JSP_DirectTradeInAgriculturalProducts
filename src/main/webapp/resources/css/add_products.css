@@ -1,0 +1,13 @@
+.add-header {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../../resources/images/add-product-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 60px 0;
+}
+.product-form {
+    background: #fff;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
